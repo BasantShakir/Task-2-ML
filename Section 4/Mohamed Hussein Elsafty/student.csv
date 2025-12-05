@@ -1,0 +1,11 @@
+Student,Study Hours,Sleep Hours,Result
+Student 1,2,8,Failed
+Student 2,3,7,Failed
+Student 3,4,6,Failed
+Student 4,5,7,Passed
+Student 5,6,8,Passed
+Student 6,7,6,Passed
+Student 7,8,5,Failed
+Student 8,9,7,Passed
+Student 9,10,8,Passed
+Student 10,11,6,Passed
